@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML, CSS,javascript.
 - 🌱 I’m currently learning javascript, Reactjs
 - 💞️ I’m looking for the opportunity as Frontend developer
-- 📫 How to reach me pandeyaditi@0324
+- 📫 How to reach me pandeyaditi0324@gamil.com
 
 <!---
 Pandeyaditii/Pandeyaditii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
